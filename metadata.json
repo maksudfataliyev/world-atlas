@@ -1,0 +1,6 @@
+{
+  "name": "WorldAtlas",
+  "description": "A premium, Apple-inspired travel discovery and statistics platform powered by the REST Countries API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
